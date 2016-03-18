@@ -1,4 +1,4 @@
-var grains = [
+var grains =[
   {
     name: 'Peanuts',
     img: 'peanuts.jpg',
